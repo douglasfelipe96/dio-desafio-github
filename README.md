@@ -1,4 +1,3 @@
 # dio-desafio-github
-Repositório para desafio de projeto
 
-Desafio 01 Git/Github
+## Neste repositório irei incrementar a cada etapa de evolução no bootcamp Spread DIO
